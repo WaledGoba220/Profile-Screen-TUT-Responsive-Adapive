@@ -10,9 +10,9 @@ A new Flutter project.
 
 <hr>
 
-## Fisrt Step When add LayoutBuilder 
+## Second Phase When add LayoutBuilder 
 <img src="assets/second.png" width="1000"/>
 <hr>
 
 ## Fisrt Step When add LayoutBuilder 
-<img src="assets/second.png" width="1000"/>
+<img src="assets/third.png" width="1000"/>
