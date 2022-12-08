@@ -14,5 +14,5 @@ A new Flutter project.
 <img src="assets/second.png" width="1000"/>
 <hr>
 
-## Fisrt Step When add LayoutBuilder 
+## Using Phase MediaQuery  
 <img src="assets/third.png" width="1000"/>
