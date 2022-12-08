@@ -11,6 +11,6 @@ A new Flutter project.
 
 
 
-## Fisrt Step When Lock LandScape to avoid Rendering
+## Fisrt Step When add LayoutBuilder 
 
 <img src="assets/second.png" width="1000"/>
