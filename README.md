@@ -20,3 +20,13 @@ A new Flutter project.
 
 ## Using Phase Turn On LandScape  
 <img src="assets/fourth.png" width="1000"/>
+
+<hr>
+
+## Using Phase Turn On LandScape  
+<img src="assets/fifth.png" width="1000"/>
+
+<hr>
+
+## Using Phase Turn On LandScape  
+<img src="assets/sixth.png" width="1000"/>
