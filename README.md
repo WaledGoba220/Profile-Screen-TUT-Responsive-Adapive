@@ -7,4 +7,4 @@ A new Flutter project.
 
 
 
-<img src="assets/first.png" width="900"/>
+<img src="assets/first.png" width="1000"/>
