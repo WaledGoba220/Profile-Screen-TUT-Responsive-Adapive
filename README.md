@@ -8,3 +8,9 @@ A new Flutter project.
 ## Fisrt Step When Lock LandScape to avoid Rendering
 
 <img src="assets/first.png" width="1000"/>
+
+
+
+## Fisrt Step When Lock LandScape to avoid Rendering
+
+<img src="assets/second.png" width="1000"/>
